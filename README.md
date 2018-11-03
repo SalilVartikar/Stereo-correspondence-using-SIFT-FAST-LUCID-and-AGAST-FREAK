@@ -1,13 +1,13 @@
 # Stereo correspondence using SIFT, FAST+LUCID and AGAST+FREAK
 
-##Application: Stereo correspondence of images
+##Application: Stereo correspondence of images##
 
-##Feature detectors and descriptors used:
+##Feature detectors and descriptors used:##
 1. SIFT
 2. FAST + LUCID
 3. AGAST + FREAK
 
-##Instructions:
+##Instructions:##
 1. Add library and include dependencies for the project as below:
    C/C++ > Additional Include Libraries: Add "C:\OpenCV3.3\OpenCV\build\include".
 
@@ -23,4 +23,4 @@
 
 7. Run the code. You can find the output images in the main folder. Also, necessary details have been printed in the    console.
 
-##Note: The project has been compiled and run on Windows 10 machine running Visual Studio 15 and OpenCV 3.3.
+##Note: The project has been compiled and run on Windows 10 machine running Visual Studio 15 and OpenCV 3.3.##
